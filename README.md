@@ -2,7 +2,6 @@
 
 ## AI-Assisted Data Cleaning | Power BI Dashboard
 
-![Dashboard Preview](images/student-performance-dashboard.png)
 
 ## Project Overview
 
