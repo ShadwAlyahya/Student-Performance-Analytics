@@ -133,3 +133,6 @@ The analysis shows a positive relationship between weekly study hours and academ
 ### 6. Subject Performance
 
 Computer Science recorded the highest average score, while History recorded the lowest average score among the analyzed subjects.
+
+<img width="1048" height="925" alt="image" src="https://github.com/user-attachments/assets/a374cfd4-9f5a-47af-89a9-4efb2b45cd1c" />
+
